@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://meindeutsch.netlify.app/tags/antworten/</loc>
+    <lastmod>2020-10-25T16:46:58+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://meindeutsch.netlify.app/categories/</loc>
+    <lastmod>2020-10-25T16:46:58+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://meindeutsch.netlify.app/categories/category1/</loc>
+    <lastmod>2020-10-25T16:46:58+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://meindeutsch.netlify.app/tags/fragen/</loc>
+    <lastmod>2020-10-25T16:46:58+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://meindeutsch.netlify.app/posts/articletitel/</loc>
+    <lastmod>2020-10-25T16:46:58+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://meindeutsch.netlify.app/</loc>
+    <lastmod>2020-10-25T16:46:58+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://meindeutsch.netlify.app/posts/</loc>
+    <lastmod>2020-10-25T16:46:58+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://meindeutsch.netlify.app/tags/</loc>
+    <lastmod>2020-10-25T16:46:58+01:00</lastmod>
+  </url>
+  
+</urlset>

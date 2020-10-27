@@ -1,0 +1,45 @@
+baseURL = "https://meindeutsch.netlify.app"
+languageCode = "en-us"
+title = "Meindeutsch.net"
+theme = "dream" 
+defaultContentLanguage = "en"
+googleAnalytics = "..."
+disqusShortname = "..."
+
+
+
+
+[params]
+  background = "#ccc"
+  # backgroundImage = "/img/default4.jpg"
+  linkColor = "seagreen"
+
+  author = "Braca"
+  # description = ""
+  avatar = "/img/avatar.jpg"
+  motto = "Motto"
+  categoriesLimitInHeader = 6
+  headerBottomText = "2020"
+
+  rss = true
+
+  # utterancesRepo = ""
+
+  # valine = true
+  # LEANCLOUD_APP_ID = ""
+  # LEANCLOUD_APP_KEY = ""
+  
+  email = "stojanovicbratislav.01@gmail.com"
+  # twitter = ""
+  # facebook = ""
+  instagram = "braca_007"
+  # mastodon = ""
+  # linkedin = ""
+  # github = ""
+  # stackoverflow = ""
+  # codepen = ""
+
+  
+  enableSearch = true
+
+  
